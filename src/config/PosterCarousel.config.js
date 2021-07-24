@@ -1,5 +1,3 @@
-
-
 const settings = {
     infinite: false,
     speed: 500,

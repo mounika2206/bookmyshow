@@ -19,4 +19,4 @@ const PlayHOC = ({ component: Component, ...rest }) => {
   );
 };
 
-export default MovieHOC;
+export default PlayHOC;

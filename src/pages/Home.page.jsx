@@ -1,14 +1,10 @@
 import axios from "axios";
 //import React from "react";
-
-
 import React, { useState, useEffect } from "react";
-
-
 // Components
 import EntertainmentCardSlider from "../components/Entertainment/Entertainmentcard.component";
 import PosterSlider from "../components/Posterslider/Posterslider.component";
-import TempPosters from "../config/TempPosters.config";
+//import TempPosters from "../config/TempPosters.config";
 //import Premier from "../components/Premier/Premier.component";
 
 const HomePage = () => {
